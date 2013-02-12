@@ -83,7 +83,6 @@ namespace AspectLibrary
             switch (type)
             {
                     case AspectTypes.After:
-                    if(aspect.)
                     break;
             }
         }
