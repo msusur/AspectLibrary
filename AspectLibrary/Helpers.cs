@@ -17,5 +17,10 @@ namespace AspectLibrary
         {
             return default(TType);
         }
+
+        public static TType IsAny2<TType>()
+        {
+            return default(TType);
+        }
     }
 }
