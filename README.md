@@ -6,6 +6,7 @@ An experimental Aspect oriented proxy generator with Castle
 Basic usage
 ------------
 
+```csharp
     public class Program
     {
         static void Main(string[] args)
@@ -25,3 +26,4 @@ Basic usage
             return x * x;
         }
     }
+```
